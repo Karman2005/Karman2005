@@ -2,20 +2,21 @@
 
 ### Computer Science Engineer | Software Developer | AI/ML Enthusiast
 
-I'm a Computer Science Engineering graduate from **Guru Nanak Dev Engineering College, Ludhiana**, with hands-on experience in software development, backend systems, AI/ML, computer vision, and full-stack development.
+I'm a Computer Science Engineering graduate passionate about **software development, backend systems, AI/ML, and building practical web applications**.
 
-I enjoy building practical applications and learning new technologies by working on real-world problems.
+I enjoy turning ideas into working products — from AI-powered applications and analytics dashboards to 3D web platforms and backend APIs.
 
 ---
 
-## 👩‍💻 About Me
+## 🚀 About Me
 
-* 🎓 B.Tech in Computer Science & Engineering — **Guru Nanak Dev Engineering College**
+* 🎓 B.Tech in Computer Science Engineering — **Guru Nanak Dev Engineering College, Ludhiana**
 * 💻 Interested in **Software Development, Backend Engineering & AI/ML**
-* ⚙️ Experienced with **FastAPI, REST APIs, Docker, React.js and Node.js**
-* 🤖 Hands-on experience with **Machine Learning and Computer Vision**
-* 🧩 Strong foundation in **DSA, OOP, DBMS, SQL, Operating Systems and Computer Networks**
-* 🚀 Currently improving my **problem-solving, DSA and software engineering skills**
+* 🧠 Strong foundation in **Data Structures, OOP, DBMS, Operating Systems & Computer Networks**
+* 🔧 Experienced with **Python, C++, JavaScript, React.js, FastAPI, Node.js & Docker**
+* 🤖 Interested in **Machine Learning, Computer Vision & Generative AI**
+* 🌱 Currently improving my **DSA, backend development and system design skills**
+* 📍 Ludhiana, Punjab, India
 
 ---
 
@@ -27,135 +28,188 @@ I enjoy building practical applications and learning new technologies by working
 
 ### Frontend
 
-`HTML` `CSS` `JavaScript` `React.js` `Next.js` `Tailwind CSS`
+`HTML` `CSS` `React.js` `Next.js` `Tailwind CSS` `Three.js`
 
 ### Backend & APIs
 
-`FastAPI` `Node.js` `Express.js` `REST APIs` `PHP`
+`FastAPI` `Node.js` `Express.js` `REST APIs`
 
 ### Databases
 
 `SQL` `MongoDB` `MariaDB`
 
-### AI / Machine Learning
+### AI / ML / Data
 
-`Scikit-Learn` `OpenCV` `Gemini API`
+`Scikit-Learn` `OpenCV` `Pandas` `NumPy` `Power BI` `Gemini API`
 
-### Data & Analytics
+### Tools & Platforms
 
-`Pandas` `NumPy` `Power BI` `Excel`
-
-### Tools & Technologies
-
-`Git` `GitHub` `Docker` `Linux` `WSL2`
+`Git` `GitHub` `Docker` `Linux` `WSL2` `Vercel` `Streamlit`
 
 ---
 
-## 🚀 Featured Projects
+## ⭐ Featured Projects
+
+### ☀️ Solar Rooftop 3D Design Platform
+
+A web-based 3D platform for designing and planning rooftop solar installations.
+
+**Features:**
+
+* Interactive 3D rooftop visualization
+* Solar panel placement and rotation
+* Collision detection
+* Automatic panel arrangement
+* JWT-based authentication
+* CRUD operations
+* Dashboard analytics for capacity and energy generation
+
+**Tech:** React.js, Three.js, Node.js, MongoDB
+
+🔗 [GitHub Repository](https://github.com/Karman2005/solar-rooftop)
+🌐 [Live Demo](https://solar-rooftop-hazel.vercel.app/)
+
+---
+
+### 📊 AI Sales & Customer Intelligence System
+
+An AI-powered analytics application for understanding sales performance and customer behavior.
+
+**Features:**
+
+* Sales data analysis using Python and Pandas
+* SQL-based data analysis
+* Customer segmentation
+* Sales forecasting
+* Business trend analysis
+* Interactive Power BI dashboards
+* AI-powered insights and assistance
+
+**Tech:** Python, Pandas, SQL, Scikit-Learn, Power BI, Generative AI
+
+🔗 [GitHub Repository](https://github.com/Karman2005/AI-Sales-Analytics)
+🌐 [Live Demo](https://karman2005-ai-sales-analytics-app-vdatc8.streamlit.app/)
+
+---
 
 ### 🤖 AI Website Generator
 
-An AI-powered application that generates websites from natural-language prompts.
+An AI-powered application that generates complete websites from natural-language prompts.
 
-**Tech:** `FastAPI` `Python` `JavaScript` `HTML` `CSS` `Gemini API`
+**Features:**
 
-* Generates HTML, CSS and JavaScript websites using AI
-* Provides a live website preview
-* Supports AI-powered website modification
-* Includes a code viewer and generated-code copying
-* Uses FastAPI for backend services
+* Generate HTML/CSS/JavaScript websites using AI
+* Natural-language website creation
+* Live preview
+* AI-powered website modification
+* FastAPI backend
 
-🔗 **[View Repository](https://github.com/Karman2005/ai-website-generator)**
-🌐 **[Live Demo](https://ai-website-generator-alpha-seven.vercel.app/)**
+**Tech:** Python, FastAPI, Gemini API, HTML, CSS, JavaScript
+
+🔗 [GitHub Repository](https://github.com/Karman2005/ai-website-generator)
+🌐 [Live Demo](https://ai-website-generator-alpha-seven.vercel.app/)
 
 ---
 
-### 🤖 LinkedIn Job Automation System
+### 💼 LinkedIn Job Automation System
 
-A Node.js automation system for searching and processing relevant LinkedIn job listings.
+An automation application designed to streamline job-search and application-related workflows.
 
-**Tech:** `Node.js` `Playwright` `Nodemailer`
+**Features:**
 
-* Automates LinkedIn login and job searching
-* Filters job listings using keywords
-* Extracts recent job listings
-* Automates email sending using Nodemailer
-* Supports resume attachments
+* Browser automation using Playwright
+* LinkedIn job interaction automation
+* Automated email notifications
+* Node.js-based automation workflow
 
-🔗 **[View Repository](https://github.com/Karman2005/JP-Staffing-Assignment)**
+**Tech:** Node.js, Playwright, Nodemailer, JavaScript
+
+🔗 [GitHub Repository](https://github.com/Karman2005/JP-Staffing-Assignment)
 
 ---
 
 ### 🎓 Scholarship Management System
 
-A JavaScript-based project for managing scholarship-related functionality.
+A web-based scholarship management application developed using JavaScript.
 
-**Tech:** `JavaScript`
+**Tech:** JavaScript
 
-🔗 **[View Repository](https://github.com/Karman2005/ScholarshipSystem)**
+🔗 [GitHub Repository](https://github.com/Karman2005/ScholarshipSystem)
 
 ---
 
 ## 💼 Professional Experience
 
-### Software Development Project Intern
+### Software Development Project Intern — GNDEC
 
-**Guru Nanak Dev Engineering College**
-*July 2025 – December 2025*
+**July 2025 – December 2025**
 
-* Developed a multi-language online compiler backend using **FastAPI, Docker and WSL2**
-* Built RESTful APIs for code submission, compilation, execution and output retrieval
-* Implemented isolated environments for reliable multi-language code execution
+* Developed a **multi-language online compiler backend** using FastAPI and Docker.
+* Built REST APIs for code submission, compilation, execution and output retrieval.
+* Supported **Python, C, C++ and Java** execution.
+* Used isolated Docker environments for reliable and secure code execution.
+* Worked with Linux and WSL2 development environments.
 
-### Machine Learning Intern
+### Machine Learning Intern — CSIR-CMERI
 
-**CSIR-CMERI**
-*June 2024 – July 2024*
+**June 2024 – July 2024**
 
-* Built machine learning models using **Python, NumPy, Pandas and Scikit-Learn**
-* Applied data preprocessing, feature handling and classification techniques
-* Worked on **Sonar/Mine detection**
+* Developed machine learning models using Python, NumPy, Pandas and Scikit-Learn.
+* Worked on preprocessing, feature handling and classification.
+* Applied ML techniques to **Sonar/Mine detection** data.
 
-### AI & Data Science Intern
+### AI & Data Science Intern — Pantech.ai
 
-**Pantech.ai**
-*March 2024 – June 2024*
+**March 2024 – June 2024**
 
-* Developed computer vision applications using **Python and OpenCV**
-* Implemented face detection and facial landmark extraction
-* Built real-time gaze tracking functionality
+* Developed computer vision applications using Python and OpenCV.
+* Implemented face detection and facial landmark processing.
+* Worked on real-time gaze tracking.
 
 ---
 
 ## 🏆 Achievements
 
-🥉 **3rd Position — GNDEC Hackathon**
-Secured 3rd position as part of a 6-member team by developing a web-based application.
+* 🥉 **3rd Position — Hackathon Technical Activity Committee, GNDEC (2025)**
 
-🏆 **Alert Hackathon — Alert Enterprises**
-Developed an AI-assisted web solution using ChatGPT and modern web technologies.
+  * Built a web application as part of a 6-member team.
+
+* 🏅 **Alert Hackathon — Alert Enterprises (2024)**
+
+  * Developed an AI-assisted web solution using modern web technologies.
 
 ---
 
-## 📚 Core Computer Science
+## 🧠 Core Computer Science
 
 * Data Structures & Algorithms
 * Object-Oriented Programming
 * Database Management Systems
-* SQL
 * Operating Systems
 * Computer Networks
+* SQL
+* REST API Development
+* Backend Development
+* Software Development
+
+---
+
+## 📌 What I'm Currently Working On
+
+* 🔹 Strengthening Data Structures & Algorithms
+* 🔹 Building scalable backend applications
+* 🔹 Exploring AI-powered software applications
+* 🔹 Improving system design and software engineering fundamentals
+* 🔹 Building and deploying practical full-stack projects
 
 ---
 
 ## 📫 Connect With Me
 
-📧 **Email:** [karmandeepkaur69@gmail.com](mailto:karmandeepkaur69@gmail.com)
-
-🔗 **LinkedIn:** [Karmandeep Kaur](https://www.linkedin.com/in/karmandeep-kaur-826031398)
-
-🐙 **GitHub:** [Karman2005](https://github.com/Karman2005)
+* 💼 [LinkedIn](https://www.linkedin.com/in/karmandeep-kaur-826031398)
+* 💻 [GitHub](https://github.com/Karman2005)
+* 📧 [Email](mailto:karmandeepkaur69@gmail.com)
 
 ---
 
-### 💡 Build. Learn. Improve. Repeat.
+⭐ **Feel free to explore my repositories and projects!**
